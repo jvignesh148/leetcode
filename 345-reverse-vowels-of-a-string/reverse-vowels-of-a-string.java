@@ -15,9 +15,6 @@ class Solution {
                 la-=1;
             }
         }
-        for(int i=0;i<c.length;i++){
-            sat+=c[i];
-        }
-        return sat;
+        return String.valueOf(c);
     }
 }
