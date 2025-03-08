@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/jvignesh148/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jvignesh148/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jvignesh148/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/jvignesh148/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/jvignesh148/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Matrix
 |  |
 | ------- |
