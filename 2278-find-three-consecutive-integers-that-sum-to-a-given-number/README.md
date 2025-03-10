@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number">2278. Find Three Consecutive Integers That Sum to a Given Number</a></h2><h3>Medium</h3><hr><p>Given an integer <code>num</code>, return <em>three consecutive integers (as a sorted array)</em><em> that <strong>sum</strong> to </em><code>num</code>. If <code>num</code> cannot be expressed as the sum of three consecutive integers, return<em> an <strong>empty</strong> array.</em></p>
+<h2><a href="https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number">Find Three Consecutive Integers That Sum to a Given Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an integer <code>num</code>, return <em>three consecutive integers (as a sorted array)</em><em> that <strong>sum</strong> to </em><code>num</code>. If <code>num</code> cannot be expressed as the sum of three consecutive integers, return<em> an <strong>empty</strong> array.</em></p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
