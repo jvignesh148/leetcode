@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/jvignesh148/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0822-unique-morse-code-words](https://github.com/jvignesh148/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
 | [2048-build-array-from-permutation](https://github.com/jvignesh148/leetcode/tree/master/2048-build-array-from-permutation) |
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -13,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0822-unique-morse-code-words](https://github.com/jvignesh148/leetcode/tree/master/0822-unique-morse-code-words) |
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jvignesh148/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -30,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0822-unique-morse-code-words](https://github.com/jvignesh148/leetcode/tree/master/0822-unique-morse-code-words) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jvignesh148/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
