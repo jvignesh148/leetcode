@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/jvignesh148/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0822-unique-morse-code-words](https://github.com/jvignesh148/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
@@ -62,6 +63,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
@@ -96,6 +98,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
