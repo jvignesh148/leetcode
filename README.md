@@ -27,6 +27,7 @@
 | [3397-find-the-integer-added-to-array-i](https://github.com/jvignesh148/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3778-transform-array-by-parity](https://github.com/jvignesh148/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,12 +110,14 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3778-transform-array-by-parity](https://github.com/jvignesh148/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jvignesh148/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jvignesh148/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3778-transform-array-by-parity](https://github.com/jvignesh148/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
