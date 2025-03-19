@@ -20,6 +20,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jvignesh148/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/jvignesh148/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3194-find-words-containing-character](https://github.com/jvignesh148/leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jvignesh148/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3373-maximum-prime-difference](https://github.com/jvignesh148/leetcode/tree/master/3373-maximum-prime-difference) |
@@ -59,6 +60,7 @@
 | [0822-unique-morse-code-words](https://github.com/jvignesh148/leetcode/tree/master/0822-unique-morse-code-words) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jvignesh148/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3194-find-words-containing-character](https://github.com/jvignesh148/leetcode/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jvignesh148/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
