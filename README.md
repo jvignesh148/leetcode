@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/jvignesh148/leetcode/tree/master/0012-integer-to-roman) |
+| [0172-factorial-trailing-zeroes](https://github.com/jvignesh148/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jvignesh148/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
 | [1284-four-divisors](https://github.com/jvignesh148/leetcode/tree/master/1284-four-divisors) |
