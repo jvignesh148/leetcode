@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
+| [0303-range-sum-query-immutable](https://github.com/jvignesh148/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/jvignesh148/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/jvignesh148/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0822-unique-morse-code-words](https://github.com/jvignesh148/leetcode/tree/master/0822-unique-morse-code-words) |
@@ -113,6 +114,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/jvignesh148/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jvignesh148/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2571-find-the-pivot-integer](https://github.com/jvignesh148/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/jvignesh148/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jvignesh148/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/jvignesh148/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
