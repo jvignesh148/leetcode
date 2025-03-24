@@ -12,6 +12,7 @@
 | [1284-four-divisors](https://github.com/jvignesh148/leetcode/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/jvignesh148/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/jvignesh148/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/jvignesh148/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
