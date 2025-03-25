@@ -63,6 +63,7 @@
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jvignesh148/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/jvignesh148/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2491-smallest-even-multiple](https://github.com/jvignesh148/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/jvignesh148/leetcode/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/jvignesh148/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jvignesh148/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -171,6 +172,7 @@
 | ------- |
 | [2083-three-divisors](https://github.com/jvignesh148/leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/jvignesh148/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/jvignesh148/leetcode/tree/master/2507-number-of-common-factors) |
 | [3373-maximum-prime-difference](https://github.com/jvignesh148/leetcode/tree/master/3373-maximum-prime-difference) |
 ## Geometry
 |  |
@@ -184,4 +186,5 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/jvignesh148/leetcode/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/jvignesh148/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
