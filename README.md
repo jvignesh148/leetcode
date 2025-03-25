@@ -58,6 +58,7 @@
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
 | [1284-four-divisors](https://github.com/jvignesh148/leetcode/tree/master/1284-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jvignesh148/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1585-the-kth-factor-of-n](https://github.com/jvignesh148/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2083-three-divisors](https://github.com/jvignesh148/leetcode/tree/master/2083-three-divisors) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jvignesh148/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -170,6 +171,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/jvignesh148/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/jvignesh148/leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/jvignesh148/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/jvignesh148/leetcode/tree/master/2507-number-of-common-factors) |
