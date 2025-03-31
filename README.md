@@ -34,6 +34,7 @@
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jvignesh148/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3373-maximum-prime-difference](https://github.com/jvignesh148/leetcode/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/jvignesh148/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jvignesh148/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jvignesh148/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -81,6 +82,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jvignesh148/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3373-maximum-prime-difference](https://github.com/jvignesh148/leetcode/tree/master/3373-maximum-prime-difference) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jvignesh148/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/jvignesh148/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
