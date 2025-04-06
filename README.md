@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/jvignesh148/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/jvignesh148/leetcode/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/jvignesh148/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jvignesh148/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
