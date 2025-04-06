@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/jvignesh148/leetcode/tree/master/0057-insert-interval) |
 | [0303-range-sum-query-immutable](https://github.com/jvignesh148/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -65,6 +66,7 @@
 | [0012-integer-to-roman](https://github.com/jvignesh148/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jvignesh148/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/jvignesh148/leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/jvignesh148/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jvignesh148/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jvignesh148/leetcode/tree/master/0415-add-strings) |
@@ -125,6 +127,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
