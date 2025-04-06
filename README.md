@@ -68,6 +68,7 @@
 | [0029-divide-two-integers](https://github.com/jvignesh148/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/jvignesh148/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/jvignesh148/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jvignesh148/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jvignesh148/leetcode/tree/master/0415-add-strings) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/jvignesh148/leetcode/tree/master/0948-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
