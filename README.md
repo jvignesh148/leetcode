@@ -121,6 +121,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jvignesh148/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jvignesh148/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jvignesh148/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/jvignesh148/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jvignesh148/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/jvignesh148/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/3379-score-of-a-string) |
