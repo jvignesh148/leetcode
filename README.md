@@ -121,6 +121,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jvignesh148/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1797-goal-parser-interpretation](https://github.com/jvignesh148/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/jvignesh148/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jvignesh148/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jvignesh148/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -185,6 +186,7 @@
 | [0541-reverse-string-ii](https://github.com/jvignesh148/leetcode/tree/master/0541-reverse-string-ii) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/jvignesh148/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jvignesh148/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jvignesh148/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
@@ -278,4 +280,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
