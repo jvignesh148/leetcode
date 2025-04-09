@@ -154,6 +154,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/jvignesh148/leetcode/tree/master/0338-counting-bits) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jvignesh148/leetcode/tree/master/0029-divide-two-integers) |
+| [0338-counting-bits](https://github.com/jvignesh148/leetcode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jvignesh148/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1054-complement-of-base-10-integer](https://github.com/jvignesh148/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jvignesh148/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
