@@ -4,11 +4,9 @@ class Solution {
         for(int i=low;i<=high;i++){
             if(i<10){
                 i=10;
-                continue;
             }
             if(i>99 && i<1000) {
                 i=1000;
-                continue;
             }
             int div=(int) Math.pow(10,digitCount(i)/2);
             int l=i/div;
