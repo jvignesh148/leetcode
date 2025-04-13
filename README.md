@@ -140,6 +140,7 @@
 | [3379-score-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jvignesh148/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3567-convert-date-to-binary](https://github.com/jvignesh148/leetcode/tree/master/3567-convert-date-to-binary) |
+| [3811-reverse-degree-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jvignesh148/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/jvignesh148/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
