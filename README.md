@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/jvignesh148/leetcode/tree/master/0057-insert-interval) |
+| [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/jvignesh148/leetcode/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/jvignesh148/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/jvignesh148/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jvignesh148/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0822-unique-morse-code-words](https://github.com/jvignesh148/leetcode/tree/master/0822-unique-morse-code-words) |
@@ -206,6 +208,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/jvignesh148/leetcode/tree/master/0948-sort-an-array) |
@@ -218,6 +221,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jvignesh148/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -237,6 +241,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/jvignesh148/leetcode/tree/master/0948-sort-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
