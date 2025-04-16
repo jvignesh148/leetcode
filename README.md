@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/jvignesh148/leetcode/tree/master/0057-insert-interval) |
+| [0152-maximum-product-subarray](https://github.com/jvignesh148/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/jvignesh148/leetcode/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/jvignesh148/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/jvignesh148/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/jvignesh148/leetcode/tree/master/0338-counting-bits) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
 ## Game Theory
