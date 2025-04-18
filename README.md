@@ -89,6 +89,7 @@
 | [0012-integer-to-roman](https://github.com/jvignesh148/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jvignesh148/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/jvignesh148/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/jvignesh148/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/jvignesh148/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/jvignesh148/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jvignesh148/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/jvignesh148/leetcode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/jvignesh148/leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/jvignesh148/leetcode/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/jvignesh148/leetcode/tree/master/0686-repeated-string-match) |
@@ -154,6 +156,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jvignesh148/leetcode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/jvignesh148/leetcode/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/jvignesh148/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jvignesh148/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
