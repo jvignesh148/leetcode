@@ -189,6 +189,7 @@
 | [0152-maximum-product-subarray](https://github.com/jvignesh148/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/jvignesh148/leetcode/tree/master/0338-counting-bits) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
+| [1488-sort-integers-by-the-power-value](https://github.com/jvignesh148/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2850-construct-the-longest-new-string](https://github.com/jvignesh148/leetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Game Theory
 |  |
@@ -234,6 +235,7 @@
 | [0948-sort-an-array](https://github.com/jvignesh148/leetcode/tree/master/0948-sort-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/jvignesh148/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1488-sort-integers-by-the-power-value](https://github.com/jvignesh148/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -331,6 +333,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
+| [1488-sort-integers-by-the-power-value](https://github.com/jvignesh148/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Stack
 |  |
 | ------- |
