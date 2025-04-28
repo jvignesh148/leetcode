@@ -42,6 +42,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jvignesh148/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jvignesh148/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jvignesh148/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jvignesh148/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jvignesh148/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -179,6 +180,7 @@
 | [0415-add-strings](https://github.com/jvignesh148/leetcode/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/jvignesh148/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jvignesh148/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jvignesh148/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jvignesh148/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/jvignesh148/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -234,6 +236,7 @@
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/jvignesh148/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jvignesh148/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jvignesh148/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jvignesh148/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
