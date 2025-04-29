@@ -167,6 +167,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jvignesh148/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/jvignesh148/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2391-strong-password-checker-ii](https://github.com/jvignesh148/leetcode/tree/master/2391-strong-password-checker-ii) |
+| [2887-sort-vowels-in-a-string](https://github.com/jvignesh148/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jvignesh148/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/jvignesh148/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/3379-score-of-a-string) |
@@ -254,6 +255,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2887-sort-vowels-in-a-string](https://github.com/jvignesh148/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3778-transform-array-by-parity](https://github.com/jvignesh148/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
