@@ -17,6 +17,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/jvignesh148/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/jvignesh148/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/jvignesh148/leetcode/tree/master/0724-find-pivot-index) |
@@ -76,6 +77,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jvignesh148/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/jvignesh148/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/jvignesh148/leetcode/tree/master/0817-design-hashmap) |
@@ -361,6 +363,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
 | [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Combinatorics
 |  |
@@ -394,4 +397,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
