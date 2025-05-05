@@ -131,6 +131,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/jvignesh148/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/jvignesh148/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jvignesh148/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/jvignesh148/leetcode/tree/master/2083-three-divisors) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jvignesh148/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/jvignesh148/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
