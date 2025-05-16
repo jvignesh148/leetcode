@@ -40,6 +40,7 @@
 | [1524-string-matching-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/jvignesh148/leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jvignesh148/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/jvignesh148/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -267,6 +268,7 @@
 | [0541-reverse-string-ii](https://github.com/jvignesh148/leetcode/tree/master/0541-reverse-string-ii) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/jvignesh148/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jvignesh148/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jvignesh148/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jvignesh148/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -285,6 +287,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jvignesh148/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1488-sort-integers-by-the-power-value](https://github.com/jvignesh148/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -407,6 +410,7 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/jvignesh148/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jvignesh148/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2850-construct-the-longest-new-string](https://github.com/jvignesh148/leetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Union Find
