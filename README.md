@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/jvignesh148/leetcode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/jvignesh148/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jvignesh148/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jvignesh148/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/jvignesh148/leetcode/tree/master/0139-word-break) |
@@ -265,6 +266,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jvignesh148/leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/jvignesh148/leetcode/tree/master/0541-reverse-string-ii) |
@@ -280,6 +282,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jvignesh148/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jvignesh148/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
