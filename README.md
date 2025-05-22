@@ -128,6 +128,7 @@
 | [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/jvignesh148/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/jvignesh148/leetcode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/jvignesh148/leetcode/tree/master/0224-basic-calculator) |
 | [0319-bulb-switcher](https://github.com/jvignesh148/leetcode/tree/master/0319-bulb-switcher) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jvignesh148/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jvignesh148/leetcode/tree/master/0415-add-strings) |
@@ -177,6 +178,7 @@
 | [0013-roman-to-integer](https://github.com/jvignesh148/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/jvignesh148/leetcode/tree/master/0043-multiply-strings) |
 | [0139-word-break](https://github.com/jvignesh148/leetcode/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/jvignesh148/leetcode/tree/master/0224-basic-calculator) |
 | [0415-add-strings](https://github.com/jvignesh148/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/jvignesh148/leetcode/tree/master/0443-string-compression) |
 | [0537-complex-number-multiplication](https://github.com/jvignesh148/leetcode/tree/master/0537-complex-number-multiplication) |
@@ -416,6 +418,7 @@
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/jvignesh148/leetcode/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
 | [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Combinatorics
@@ -456,4 +459,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/jvignesh148/leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
