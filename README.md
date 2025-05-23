@@ -139,6 +139,7 @@
 | [0797-rabbits-in-forest](https://github.com/jvignesh148/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
 | [1010-powerful-integers](https://github.com/jvignesh148/leetcode/tree/master/1010-powerful-integers) |
+| [1033-broken-calculator](https://github.com/jvignesh148/leetcode/tree/master/1033-broken-calculator) |
 | [1284-four-divisors](https://github.com/jvignesh148/leetcode/tree/master/1284-four-divisors) |
 | [1289-day-of-the-week](https://github.com/jvignesh148/leetcode/tree/master/1289-day-of-the-week) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jvignesh148/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -429,6 +430,7 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/jvignesh148/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1033-broken-calculator](https://github.com/jvignesh148/leetcode/tree/master/1033-broken-calculator) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jvignesh148/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2850-construct-the-longest-new-string](https://github.com/jvignesh148/leetcode/tree/master/2850-construct-the-longest-new-string) |
