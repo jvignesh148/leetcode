@@ -468,4 +468,8 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/jvignesh148/leetcode/tree/master/0224-basic-calculator) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/jvignesh148/leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
