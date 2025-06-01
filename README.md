@@ -41,6 +41,7 @@
 | [1524-string-matching-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/jvignesh148/leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jvignesh148/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jvignesh148/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/jvignesh148/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -192,6 +193,7 @@
 | [1524-string-matching-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jvignesh148/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1797-goal-parser-interpretation](https://github.com/jvignesh148/leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jvignesh148/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/jvignesh148/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -259,6 +261,7 @@
 | [0303-range-sum-query-immutable](https://github.com/jvignesh148/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/jvignesh148/leetcode/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jvignesh148/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jvignesh148/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2571-find-the-pivot-integer](https://github.com/jvignesh148/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/jvignesh148/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
