@@ -196,6 +196,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/jvignesh148/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1449-print-words-vertically](https://github.com/jvignesh148/leetcode/tree/master/1449-print-words-vertically) |
 | [1524-string-matching-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/jvignesh148/leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jvignesh148/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1797-goal-parser-interpretation](https://github.com/jvignesh148/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jvignesh148/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -316,6 +317,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jvignesh148/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1488-sort-integers-by-the-power-value](https://github.com/jvignesh148/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/jvignesh148/leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
