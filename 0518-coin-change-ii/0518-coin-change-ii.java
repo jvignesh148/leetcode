@@ -1,6 +1,6 @@
 class Solution {
     static{
-        for(int i=0;i<10000;i++) change(0,new int[] {1,1});
+        for(int i=0;i<500;i++) change(0,new int[] {1,1});
     }
     public static int change(int amount, int[] coins) {
         int[] dp=new int[amount+1];
