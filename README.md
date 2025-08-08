@@ -501,4 +501,16 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jvignesh148/leetcode/tree/master/0322-coin-change) |
+## Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
