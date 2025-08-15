@@ -139,6 +139,7 @@
 | [0224-basic-calculator](https://github.com/jvignesh148/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/jvignesh148/leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/jvignesh148/leetcode/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/jvignesh148/leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jvignesh148/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jvignesh148/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/jvignesh148/leetcode/tree/master/0504-base-7) |
@@ -287,6 +288,7 @@
 | [0029-divide-two-integers](https://github.com/jvignesh148/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/jvignesh148/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/jvignesh148/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/jvignesh148/leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jvignesh148/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1054-complement-of-base-10-integer](https://github.com/jvignesh148/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jvignesh148/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -492,6 +494,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/jvignesh148/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/jvignesh148/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/jvignesh148/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/jvignesh148/leetcode/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
