@@ -155,6 +155,7 @@
 | [1289-day-of-the-week](https://github.com/jvignesh148/leetcode/tree/master/1289-day-of-the-week) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jvignesh148/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jvignesh148/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/jvignesh148/leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/jvignesh148/leetcode/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/jvignesh148/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -459,6 +460,7 @@
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/jvignesh148/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1033-broken-calculator](https://github.com/jvignesh148/leetcode/tree/master/1033-broken-calculator) |
+| [1448-maximum-69-number](https://github.com/jvignesh148/leetcode/tree/master/1448-maximum-69-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jvignesh148/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2850-construct-the-longest-new-string](https://github.com/jvignesh148/leetcode/tree/master/2850-construct-the-longest-new-string) |
