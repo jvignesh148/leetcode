@@ -12,6 +12,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/jvignesh148/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/jvignesh148/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jvignesh148/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/jvignesh148/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/jvignesh148/leetcode/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/jvignesh148/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -363,6 +364,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jvignesh148/leetcode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/jvignesh148/leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jvignesh148/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
