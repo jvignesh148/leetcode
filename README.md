@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/jvignesh148/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/jvignesh148/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/jvignesh148/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jvignesh148/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jvignesh148/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/jvignesh148/leetcode/tree/master/0139-word-break) |
@@ -288,6 +289,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jvignesh148/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/jvignesh148/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/jvignesh148/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/jvignesh148/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/jvignesh148/leetcode/tree/master/0342-power-of-four) |
@@ -523,4 +525,8 @@
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jvignesh148/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
