@@ -45,6 +45,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jvignesh148/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jvignesh148/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/jvignesh148/leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jvignesh148/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jvignesh148/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/jvignesh148/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jvignesh148/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2478-longest-nice-subarray](https://github.com/jvignesh148/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Dynamic Programming
 |  |
@@ -269,6 +271,7 @@
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/jvignesh148/leetcode/tree/master/1013-fibonacci-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/jvignesh148/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jvignesh148/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2850-construct-the-longest-new-string](https://github.com/jvignesh148/leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Game Theory
