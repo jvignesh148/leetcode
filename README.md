@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/jvignesh148/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/jvignesh148/leetcode/tree/master/0057-insert-interval) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/jvignesh148/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jvignesh148/leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/jvignesh148/leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/jvignesh148/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/jvignesh148/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
@@ -247,6 +249,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/jvignesh148/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/jvignesh148/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
