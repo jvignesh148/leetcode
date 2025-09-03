@@ -78,6 +78,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jvignesh148/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jvignesh148/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jvignesh148/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/jvignesh148/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jvignesh148/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/jvignesh148/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -253,6 +254,7 @@
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jvignesh148/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/jvignesh148/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/jvignesh148/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3811-reverse-degree-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
@@ -261,6 +263,7 @@
 | [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
 | [0419-battleships-in-a-board](https://github.com/jvignesh148/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/jvignesh148/leetcode/tree/master/0498-diagonal-traverse) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/jvignesh148/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/jvignesh148/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
