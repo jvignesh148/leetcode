@@ -46,6 +46,7 @@
 | [1284-four-divisors](https://github.com/jvignesh148/leetcode/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/jvignesh148/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1449-print-words-vertically](https://github.com/jvignesh148/leetcode/tree/master/1449-print-words-vertically) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jvignesh148/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -264,6 +265,7 @@
 | [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
 | [0419-battleships-in-a-board](https://github.com/jvignesh148/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/jvignesh148/leetcode/tree/master/0498-diagonal-traverse) |
+| [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/jvignesh148/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/jvignesh148/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -372,6 +374,7 @@
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jvignesh148/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jvignesh148/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jvignesh148/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -500,6 +503,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jvignesh148/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Linked List
 |  |
@@ -550,6 +554,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jvignesh148/leetcode/tree/master/0322-coin-change) |
+| [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Tree
 |  |
@@ -562,6 +567,7 @@
 | [0419-battleships-in-a-board](https://github.com/jvignesh148/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
+| [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
