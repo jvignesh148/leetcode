@@ -142,6 +142,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jvignesh148/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/jvignesh148/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jvignesh148/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jvignesh148/leetcode/tree/master/0012-integer-to-roman) |
@@ -510,6 +511,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jvignesh148/leetcode/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jvignesh148/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/jvignesh148/leetcode/tree/master/0817-design-hashmap) |
@@ -541,6 +543,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jvignesh148/leetcode/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/jvignesh148/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/jvignesh148/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/jvignesh148/leetcode/tree/master/0342-power-of-four) |
