@@ -50,6 +50,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jvignesh148/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jvignesh148/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/jvignesh148/leetcode/tree/master/1656-count-good-triplets) |
 | [1767-design-front-middle-back-queue](https://github.com/jvignesh148/leetcode/tree/master/1767-design-front-middle-back-queue) |
@@ -425,6 +426,7 @@
 | [0838-design-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/jvignesh148/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/jvignesh148/leetcode/tree/master/0860-design-circular-queue) |
+| [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/jvignesh148/leetcode/tree/master/1767-design-front-middle-back-queue) |
 ## Enumeration
 |  |
@@ -472,6 +474,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/jvignesh148/leetcode/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
+| [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Combinatorics
 |  |
@@ -499,6 +502,7 @@
 | [0859-design-circular-deque](https://github.com/jvignesh148/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/jvignesh148/leetcode/tree/master/0860-design-circular-queue) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/jvignesh148/leetcode/tree/master/1767-design-front-middle-back-queue) |
 ## Hash Function
 |  |
@@ -562,6 +566,7 @@
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -571,5 +576,6 @@
 ## Data Stream
 |  |
 | ------- |
+| [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/jvignesh148/leetcode/tree/master/1767-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
