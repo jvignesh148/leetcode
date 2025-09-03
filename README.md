@@ -419,6 +419,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jvignesh148/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0817-design-hashmap](https://github.com/jvignesh148/leetcode/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0838-design-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -488,6 +489,7 @@
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/jvignesh148/leetcode/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0838-design-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Hash Function
 |  |
