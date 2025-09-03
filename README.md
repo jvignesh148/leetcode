@@ -486,6 +486,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/jvignesh148/leetcode/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
@@ -532,6 +533,7 @@
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/jvignesh148/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
@@ -541,4 +543,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/jvignesh148/leetcode/tree/master/0078-subsets) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
