@@ -10,16 +10,38 @@
  */
 class Solution {
     public ListNode insertionSortList(ListNode head) {
-        if(head==null) return null;
-        ListNode list=new ListNode(-5001);
-        ListNode temp=head;
-        while(temp!=null){
-            ListNode prev=list,next=temp.next;
-            while(prev.next!=null && prev.next.val<temp.val) prev=prev.next;
-            temp.next=prev.next;
-            prev.next=temp;
-            temp=next;
+        if(head==null || head.next==null) return head;
+        ListNode mid=findMid(head);
+        ListNode right=mid.next;
+        mid.next=null;
+        ListNode leftList=insertionSortList(head);
+        ListNode rightList=insertionSortList(right);
+        return merge(leftList,rightList);
+    }
+    public ListNode merge(ListNode left, ListNode right){
+        ListNode node=new ListNode(0);
+        ListNode temp=node;
+        while(left!=null && right!=null){
+            if(left.val<right.val){
+                temp.next=left;
+                left=left.next;
+            }
+            else{
+                temp.next=right;
+                right=right.next;
+            }
+            temp=temp.next;
         }
-        return list.next;
+        if(left!=null) temp.next=left;
+        if(right!=null) temp.next=right;
+        return node.next;
+    }
+    public ListNode findMid(ListNode head){
+        ListNode slow=head,fast=head.next;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;    
+        }
+        return slow;
     }
 }
