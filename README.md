@@ -338,6 +338,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jvignesh148/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/jvignesh148/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jvignesh148/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -358,6 +359,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/jvignesh148/leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/jvignesh148/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/jvignesh148/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jvignesh148/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -412,6 +414,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jvignesh148/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/jvignesh148/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jvignesh148/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/jvignesh148/leetcode/tree/master/0948-sort-an-array) |
@@ -470,6 +473,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/jvignesh148/leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/jvignesh148/leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -523,6 +527,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jvignesh148/leetcode/tree/master/0002-add-two-numbers) |
 | [0147-insertion-sort-list](https://github.com/jvignesh148/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/jvignesh148/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jvignesh148/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/jvignesh148/leetcode/tree/master/0817-design-hashmap) |
