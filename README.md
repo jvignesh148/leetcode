@@ -163,6 +163,7 @@
 | [0231-power-of-two](https://github.com/jvignesh148/leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/jvignesh148/leetcode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/jvignesh148/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/jvignesh148/leetcode/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/jvignesh148/leetcode/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jvignesh148/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jvignesh148/leetcode/tree/master/0415-add-strings) |
@@ -414,6 +415,7 @@
 | [0162-find-peak-element](https://github.com/jvignesh148/leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/jvignesh148/leetcode/tree/master/0367-valid-perfect-square) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jvignesh148/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
