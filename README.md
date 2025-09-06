@@ -548,6 +548,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/jvignesh148/leetcode/tree/master/1767-design-front-middle-back-queue) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jvignesh148/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/jvignesh148/leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Hash Function
 |  |
