@@ -57,6 +57,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/jvignesh148/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1539-diagonal-traverse-ii](https://github.com/jvignesh148/leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jvignesh148/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/jvignesh148/leetcode/tree/master/1656-count-good-triplets) |
@@ -380,6 +381,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jvignesh148/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1488-sort-integers-by-the-power-value](https://github.com/jvignesh148/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1539-diagonal-traverse-ii](https://github.com/jvignesh148/leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/jvignesh148/leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -439,6 +441,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jvignesh148/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/jvignesh148/leetcode/tree/master/0948-sort-an-array) |
+| [1539-diagonal-traverse-ii](https://github.com/jvignesh148/leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
