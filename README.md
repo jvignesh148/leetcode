@@ -603,6 +603,7 @@
 | [0322-coin-change](https://github.com/jvignesh148/leetcode/tree/master/0322-coin-change) |
 | [0655-print-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/0655-print-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jvignesh148/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Tree
 |  |
@@ -610,6 +611,7 @@
 | [0655-print-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/0655-print-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jvignesh148/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -626,6 +628,7 @@
 | [0655-print-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/0655-print-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jvignesh148/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Backtracking
 |  |
 | ------- |
