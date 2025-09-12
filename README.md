@@ -208,6 +208,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jvignesh148/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3373-maximum-prime-difference](https://github.com/jvignesh148/leetcode/tree/master/3373-maximum-prime-difference) |
+| [3462-vowels-game-in-a-string](https://github.com/jvignesh148/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jvignesh148/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/jvignesh148/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -255,6 +256,7 @@
 | [3194-find-words-containing-character](https://github.com/jvignesh148/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jvignesh148/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3462-vowels-game-in-a-string](https://github.com/jvignesh148/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/jvignesh148/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jvignesh148/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -318,6 +320,7 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
+| [3462-vowels-game-in-a-string](https://github.com/jvignesh148/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -572,6 +575,7 @@
 | [0319-bulb-switcher](https://github.com/jvignesh148/leetcode/tree/master/0319-bulb-switcher) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jvignesh148/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2850-construct-the-longest-new-string](https://github.com/jvignesh148/leetcode/tree/master/2850-construct-the-longest-new-string) |
+| [3462-vowels-game-in-a-string](https://github.com/jvignesh148/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Trie
 |  |
 | ------- |
