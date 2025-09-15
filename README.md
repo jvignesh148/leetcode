@@ -672,6 +672,7 @@
 |  |
 | ------- |
 | [0655-print-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/0655-print-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/jvignesh148/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jvignesh148/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -683,6 +684,7 @@
 | [0655-print-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/0655-print-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0832-binary-tree-pruning](https://github.com/jvignesh148/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -691,6 +693,7 @@
 |  |
 | ------- |
 | [0655-print-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/0655-print-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/jvignesh148/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jvignesh148/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
