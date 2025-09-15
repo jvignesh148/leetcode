@@ -137,6 +137,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1500-count-largest-group](https://github.com/jvignesh148/leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1905-design-authentication-manager](https://github.com/jvignesh148/leetcode/tree/master/1905-design-authentication-manager) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jvignesh148/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/jvignesh148/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jvignesh148/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -486,6 +487,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/jvignesh148/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/jvignesh148/leetcode/tree/master/1767-design-front-middle-back-queue) |
+| [1905-design-authentication-manager](https://github.com/jvignesh148/leetcode/tree/master/1905-design-authentication-manager) |
 ## Enumeration
 |  |
 | ------- |
@@ -576,6 +578,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/jvignesh148/leetcode/tree/master/1767-design-front-middle-back-queue) |
+| [1905-design-authentication-manager](https://github.com/jvignesh148/leetcode/tree/master/1905-design-authentication-manager) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jvignesh148/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/jvignesh148/leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Hash Function
@@ -656,6 +659,7 @@
 | [0460-lfu-cache](https://github.com/jvignesh148/leetcode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
+| [1905-design-authentication-manager](https://github.com/jvignesh148/leetcode/tree/master/1905-design-authentication-manager) |
 ## Queue
 |  |
 | ------- |
