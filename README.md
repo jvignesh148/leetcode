@@ -30,6 +30,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0419-battleships-in-a-board](https://github.com/jvignesh148/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jvignesh148/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0472-concatenated-words](https://github.com/jvignesh148/leetcode/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/jvignesh148/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/jvignesh148/leetcode/tree/master/0498-diagonal-traverse) |
@@ -244,6 +245,7 @@
 | [0224-basic-calculator](https://github.com/jvignesh148/leetcode/tree/master/0224-basic-calculator) |
 | [0415-add-strings](https://github.com/jvignesh148/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/jvignesh148/leetcode/tree/master/0443-string-compression) |
+| [0472-concatenated-words](https://github.com/jvignesh148/leetcode/tree/master/0472-concatenated-words) |
 | [0537-complex-number-multiplication](https://github.com/jvignesh148/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/jvignesh148/leetcode/tree/master/0541-reverse-string-ii) |
 | [0676-implement-magic-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0676-implement-magic-dictionary) |
@@ -332,6 +334,7 @@
 | [0152-maximum-product-subarray](https://github.com/jvignesh148/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/jvignesh148/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/jvignesh148/leetcode/tree/master/0338-counting-bits) |
+| [0472-concatenated-words](https://github.com/jvignesh148/leetcode/tree/master/0472-concatenated-words) |
 | [0518-coin-change-ii](https://github.com/jvignesh148/leetcode/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/jvignesh148/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
@@ -406,6 +409,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jvignesh148/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0472-concatenated-words](https://github.com/jvignesh148/leetcode/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0948-sort-an-array](https://github.com/jvignesh148/leetcode/tree/master/0948-sort-an-array) |
@@ -626,6 +630,7 @@
 | ------- |
 | [0139-word-break](https://github.com/jvignesh148/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/jvignesh148/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0472-concatenated-words](https://github.com/jvignesh148/leetcode/tree/master/0472-concatenated-words) |
 | [0676-implement-magic-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/jvignesh148/leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -669,6 +674,7 @@
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/jvignesh148/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0472-concatenated-words](https://github.com/jvignesh148/leetcode/tree/master/0472-concatenated-words) |
 | [0655-print-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/0655-print-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
