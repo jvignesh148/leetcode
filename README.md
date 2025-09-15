@@ -48,6 +48,7 @@
 | [0926-find-and-replace-pattern](https://github.com/jvignesh148/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/jvignesh148/leetcode/tree/master/0948-sort-an-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/jvignesh148/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/jvignesh148/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jvignesh148/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jvignesh148/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jvignesh148/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -287,6 +288,7 @@
 | [0415-add-strings](https://github.com/jvignesh148/leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/jvignesh148/leetcode/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/jvignesh148/leetcode/tree/master/0537-complex-number-multiplication) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/jvignesh148/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1449-print-words-vertically](https://github.com/jvignesh148/leetcode/tree/master/1449-print-words-vertically) |
 | [2048-build-array-from-permutation](https://github.com/jvignesh148/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jvignesh148/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -405,6 +407,7 @@
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0948-sort-an-array](https://github.com/jvignesh148/leetcode/tree/master/0948-sort-an-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/jvignesh148/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1306-minimum-absolute-difference](https://github.com/jvignesh148/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jvignesh148/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -693,6 +696,7 @@
 | ------- |
 | [0859-design-circular-deque](https://github.com/jvignesh148/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/jvignesh148/leetcode/tree/master/0860-design-circular-queue) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/jvignesh148/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1767-design-front-middle-back-queue](https://github.com/jvignesh148/leetcode/tree/master/1767-design-front-middle-back-queue) |
 ## Data Stream
 |  |
