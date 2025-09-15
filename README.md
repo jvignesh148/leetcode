@@ -81,6 +81,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/jvignesh148/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jvignesh148/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/jvignesh148/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/jvignesh148/leetcode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jvignesh148/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jvignesh148/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
