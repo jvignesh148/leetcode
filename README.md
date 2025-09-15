@@ -121,6 +121,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jvignesh148/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0460-lfu-cache](https://github.com/jvignesh148/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/jvignesh148/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -477,6 +478,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jvignesh148/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0460-lfu-cache](https://github.com/jvignesh148/leetcode/tree/master/0460-lfu-cache) |
 | [0817-design-hashmap](https://github.com/jvignesh148/leetcode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/jvignesh148/leetcode/tree/master/0859-design-circular-deque) |
@@ -564,6 +566,7 @@
 | [0148-sort-list](https://github.com/jvignesh148/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jvignesh148/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0382-linked-list-random-node](https://github.com/jvignesh148/leetcode/tree/master/0382-linked-list-random-node) |
+| [0460-lfu-cache](https://github.com/jvignesh148/leetcode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/jvignesh148/leetcode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0838-design-linked-list) |
@@ -650,6 +653,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/jvignesh148/leetcode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 ## Queue
