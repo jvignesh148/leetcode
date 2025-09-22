@@ -109,6 +109,7 @@
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jvignesh148/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/jvignesh148/leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/jvignesh148/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jvignesh148/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3373-maximum-prime-difference](https://github.com/jvignesh148/leetcode/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/jvignesh148/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -167,6 +168,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jvignesh148/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jvignesh148/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/jvignesh148/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jvignesh148/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -477,6 +479,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jvignesh148/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jvignesh148/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jvignesh148/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/jvignesh148/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jvignesh148/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/jvignesh148/leetcode/tree/master/3778-transform-array-by-parity) |
