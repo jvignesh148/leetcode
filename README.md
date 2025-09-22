@@ -216,6 +216,7 @@
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1284-four-divisors](https://github.com/jvignesh148/leetcode/tree/master/1284-four-divisors) |
 | [1289-day-of-the-week](https://github.com/jvignesh148/leetcode/tree/master/1289-day-of-the-week) |
+| [1307-ugly-number-iii](https://github.com/jvignesh148/leetcode/tree/master/1307-ugly-number-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jvignesh148/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jvignesh148/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/jvignesh148/leetcode/tree/master/1448-maximum-69-number) |
@@ -504,6 +505,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/jvignesh148/leetcode/tree/master/0367-valid-perfect-square) |
 | [0907-koko-eating-bananas](https://github.com/jvignesh148/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1307-ugly-number-iii](https://github.com/jvignesh148/leetcode/tree/master/1307-ugly-number-iii) |
 | [1397-search-suggestions-system](https://github.com/jvignesh148/leetcode/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/jvignesh148/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jvignesh148/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -540,6 +542,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jvignesh148/leetcode/tree/master/0204-count-primes) |
+| [1307-ugly-number-iii](https://github.com/jvignesh148/leetcode/tree/master/1307-ugly-number-iii) |
 | [1585-the-kth-factor-of-n](https://github.com/jvignesh148/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/jvignesh148/leetcode/tree/master/2083-three-divisors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jvignesh148/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -629,6 +632,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1307-ugly-number-iii](https://github.com/jvignesh148/leetcode/tree/master/1307-ugly-number-iii) |
 | [1761-count-sorted-vowel-strings](https://github.com/jvignesh148/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Greedy
