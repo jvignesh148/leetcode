@@ -62,6 +62,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/jvignesh148/leetcode/tree/master/1397-search-suggestions-system) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/jvignesh148/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1449-print-words-vertically](https://github.com/jvignesh148/leetcode/tree/master/1449-print-words-vertically) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jvignesh148/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jvignesh148/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -504,6 +505,7 @@
 | [0367-valid-perfect-square](https://github.com/jvignesh148/leetcode/tree/master/0367-valid-perfect-square) |
 | [0907-koko-eating-bananas](https://github.com/jvignesh148/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1397-search-suggestions-system](https://github.com/jvignesh148/leetcode/tree/master/1397-search-suggestions-system) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/jvignesh148/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jvignesh148/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jvignesh148/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
