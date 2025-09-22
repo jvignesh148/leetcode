@@ -23,6 +23,7 @@
 | [0162-find-peak-element](https://github.com/jvignesh148/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/jvignesh148/leetcode/tree/master/0204-count-primes) |
+| [0274-h-index](https://github.com/jvignesh148/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/jvignesh148/leetcode/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/jvignesh148/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/jvignesh148/leetcode/tree/master/0322-coin-change) |
@@ -431,6 +432,7 @@
 | [0147-insertion-sort-list](https://github.com/jvignesh148/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/jvignesh148/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/jvignesh148/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/jvignesh148/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jvignesh148/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jvignesh148/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -596,6 +598,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/jvignesh148/leetcode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/jvignesh148/leetcode/tree/master/0948-sort-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/jvignesh148/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 ## Memoization
