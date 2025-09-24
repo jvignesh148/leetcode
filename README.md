@@ -76,6 +76,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/jvignesh148/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jvignesh148/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1767-design-front-middle-back-queue](https://github.com/jvignesh148/leetcode/tree/master/1767-design-front-middle-back-queue) |
+| [1813-maximum-erasure-value](https://github.com/jvignesh148/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jvignesh148/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jvignesh148/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1961-maximum-ice-cream-bars](https://github.com/jvignesh148/leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -161,6 +162,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1500-count-largest-group](https://github.com/jvignesh148/leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/jvignesh148/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1905-design-authentication-manager](https://github.com/jvignesh148/leetcode/tree/master/1905-design-authentication-manager) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jvignesh148/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/jvignesh148/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -353,6 +355,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/jvignesh148/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jvignesh148/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jvignesh148/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1813-maximum-erasure-value](https://github.com/jvignesh148/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/jvignesh148/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Dynamic Programming
 |  |
