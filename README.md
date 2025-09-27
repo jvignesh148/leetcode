@@ -200,6 +200,7 @@
 | [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/jvignesh148/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/jvignesh148/leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/jvignesh148/leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/jvignesh148/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/jvignesh148/leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/jvignesh148/leetcode/tree/master/0319-bulb-switcher) |
@@ -565,6 +566,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/jvignesh148/leetcode/tree/master/0223-rectangle-area) |
 | [0830-largest-triangle-area](https://github.com/jvignesh148/leetcode/tree/master/0830-largest-triangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jvignesh148/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Design
