@@ -42,6 +42,7 @@
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/jvignesh148/leetcode/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/jvignesh148/leetcode/tree/master/0729-my-calendar-i) |
 | [0797-rabbits-in-forest](https://github.com/jvignesh148/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/jvignesh148/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0817-design-hashmap](https://github.com/jvignesh148/leetcode/tree/master/0817-design-hashmap) |
@@ -517,6 +518,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/jvignesh148/leetcode/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/jvignesh148/leetcode/tree/master/0611-valid-triangle-number) |
+| [0729-my-calendar-i](https://github.com/jvignesh148/leetcode/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/jvignesh148/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jvignesh148/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1307-ugly-number-iii](https://github.com/jvignesh148/leetcode/tree/master/1307-ugly-number-iii) |
@@ -580,6 +582,7 @@
 | [0460-lfu-cache](https://github.com/jvignesh148/leetcode/tree/master/0460-lfu-cache) |
 | [0676-implement-magic-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/jvignesh148/leetcode/tree/master/0677-map-sum-pairs) |
+| [0729-my-calendar-i](https://github.com/jvignesh148/leetcode/tree/master/0729-my-calendar-i) |
 | [0817-design-hashmap](https://github.com/jvignesh148/leetcode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/jvignesh148/leetcode/tree/master/0859-design-circular-deque) |
@@ -828,6 +831,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/jvignesh148/leetcode/tree/master/0729-my-calendar-i) |
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
 ## Binary Search Tree
@@ -838,4 +842,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/jvignesh148/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jvignesh148/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
