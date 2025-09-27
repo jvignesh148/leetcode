@@ -46,6 +46,7 @@
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/jvignesh148/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0817-design-hashmap](https://github.com/jvignesh148/leetcode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/jvignesh148/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0830-largest-triangle-area](https://github.com/jvignesh148/leetcode/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/jvignesh148/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/jvignesh148/leetcode/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/jvignesh148/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -213,6 +214,7 @@
 | [0537-complex-number-multiplication](https://github.com/jvignesh148/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0650-2-keys-keyboard](https://github.com/jvignesh148/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/jvignesh148/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/jvignesh148/leetcode/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
 | [0913-random-flip-matrix](https://github.com/jvignesh148/leetcode/tree/master/0913-random-flip-matrix) |
 | [1010-powerful-integers](https://github.com/jvignesh148/leetcode/tree/master/1010-powerful-integers) |
@@ -563,6 +565,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/jvignesh148/leetcode/tree/master/0830-largest-triangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jvignesh148/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Design
 |  |
