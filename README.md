@@ -750,6 +750,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jvignesh148/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/jvignesh148/leetcode/tree/master/0322-coin-change) |
 | [0655-print-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/0655-print-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -769,6 +770,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jvignesh148/leetcode/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jvignesh148/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0419-battleships-in-a-board](https://github.com/jvignesh148/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0472-concatenated-words](https://github.com/jvignesh148/leetcode/tree/master/0472-concatenated-words) |
@@ -846,4 +848,12 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/jvignesh148/leetcode/tree/master/0729-my-calendar-i) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/jvignesh148/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/jvignesh148/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
