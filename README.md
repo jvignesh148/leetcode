@@ -12,7 +12,6 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jvignesh148/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/jvignesh148/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
-| [0051-n-queens](https://github.com/jvignesh148/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jvignesh148/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jvignesh148/leetcode/tree/master/0057-insert-interval) |
@@ -52,6 +51,7 @@
 | [0830-largest-triangle-area](https://github.com/jvignesh148/leetcode/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/jvignesh148/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/jvignesh148/leetcode/tree/master/0860-design-circular-queue) |
+| [0894-random-pick-with-blacklist](https://github.com/jvignesh148/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0907-koko-eating-bananas](https://github.com/jvignesh148/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/jvignesh148/leetcode/tree/master/0917-boats-to-save-people) |
@@ -156,6 +156,7 @@
 | [0797-rabbits-in-forest](https://github.com/jvignesh148/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/jvignesh148/leetcode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/jvignesh148/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0894-random-pick-with-blacklist](https://github.com/jvignesh148/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0913-random-flip-matrix](https://github.com/jvignesh148/leetcode/tree/master/0913-random-flip-matrix) |
 | [0926-find-and-replace-pattern](https://github.com/jvignesh148/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jvignesh148/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -220,6 +221,7 @@
 | [0650-2-keys-keyboard](https://github.com/jvignesh148/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/jvignesh148/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/jvignesh148/leetcode/tree/master/0830-largest-triangle-area) |
+| [0894-random-pick-with-blacklist](https://github.com/jvignesh148/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0909-stone-game](https://github.com/jvignesh148/leetcode/tree/master/0909-stone-game) |
 | [0913-random-flip-matrix](https://github.com/jvignesh148/leetcode/tree/master/0913-random-flip-matrix) |
 | [1010-powerful-integers](https://github.com/jvignesh148/leetcode/tree/master/1010-powerful-integers) |
@@ -463,6 +465,7 @@
 | [0611-valid-triangle-number](https://github.com/jvignesh148/leetcode/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0894-random-pick-with-blacklist](https://github.com/jvignesh148/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0917-boats-to-save-people](https://github.com/jvignesh148/leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/jvignesh148/leetcode/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/jvignesh148/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -524,6 +527,7 @@
 | [0367-valid-perfect-square](https://github.com/jvignesh148/leetcode/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/jvignesh148/leetcode/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/jvignesh148/leetcode/tree/master/0729-my-calendar-i) |
+| [0894-random-pick-with-blacklist](https://github.com/jvignesh148/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0907-koko-eating-bananas](https://github.com/jvignesh148/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jvignesh148/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1307-ugly-number-iii](https://github.com/jvignesh148/leetcode/tree/master/1307-ugly-number-iii) |
@@ -815,7 +819,6 @@
 ## Backtracking
 |  |
 | ------- |
-| [0051-n-queens](https://github.com/jvignesh148/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/jvignesh148/leetcode/tree/master/0078-subsets) |
 ## Doubly-Linked List
 |  |
@@ -848,6 +851,7 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/jvignesh148/leetcode/tree/master/0382-linked-list-random-node) |
+| [0894-random-pick-with-blacklist](https://github.com/jvignesh148/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0913-random-flip-matrix](https://github.com/jvignesh148/leetcode/tree/master/0913-random-flip-matrix) |
 ## Ordered Set
 |  |
