@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/jvignesh148/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jvignesh148/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jvignesh148/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/jvignesh148/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jvignesh148/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jvignesh148/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/jvignesh148/leetcode/tree/master/0036-valid-sudoku) |
@@ -422,6 +423,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jvignesh148/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/jvignesh148/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/jvignesh148/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/jvignesh148/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jvignesh148/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
