@@ -240,6 +240,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/jvignesh148/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/jvignesh148/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1642-water-bottles](https://github.com/jvignesh148/leetcode/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jvignesh148/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/jvignesh148/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jvignesh148/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -337,6 +338,7 @@
 | [0537-complex-number-multiplication](https://github.com/jvignesh148/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/jvignesh148/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1449-print-words-vertically](https://github.com/jvignesh148/leetcode/tree/master/1449-print-words-vertically) |
+| [1642-water-bottles](https://github.com/jvignesh148/leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/jvignesh148/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jvignesh148/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/jvignesh148/leetcode/tree/master/2232-adding-spaces-to-a-string) |
