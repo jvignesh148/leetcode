@@ -824,6 +824,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/jvignesh148/leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/jvignesh148/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/jvignesh148/leetcode/tree/master/0078-subsets) |
 ## Doubly-Linked List
 |  |
