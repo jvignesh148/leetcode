@@ -280,6 +280,7 @@
 | [0013-roman-to-integer](https://github.com/jvignesh148/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/jvignesh148/leetcode/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/jvignesh148/leetcode/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/jvignesh148/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jvignesh148/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/jvignesh148/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jvignesh148/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -380,6 +381,7 @@
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jvignesh148/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/jvignesh148/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jvignesh148/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jvignesh148/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/jvignesh148/leetcode/tree/master/0322-coin-change) |
@@ -828,6 +830,7 @@
 | [0051-n-queens](https://github.com/jvignesh148/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/jvignesh148/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/jvignesh148/leetcode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/jvignesh148/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Doubly-Linked List
 |  |
 | ------- |
