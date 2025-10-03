@@ -151,6 +151,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0460-lfu-cache](https://github.com/jvignesh148/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/jvignesh148/leetcode/tree/master/0567-permutation-in-string) |
 | [0676-implement-magic-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/jvignesh148/leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -291,6 +292,7 @@
 | [0472-concatenated-words](https://github.com/jvignesh148/leetcode/tree/master/0472-concatenated-words) |
 | [0537-complex-number-multiplication](https://github.com/jvignesh148/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/jvignesh148/leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/jvignesh148/leetcode/tree/master/0567-permutation-in-string) |
 | [0676-implement-magic-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/jvignesh148/leetcode/tree/master/0677-map-sum-pairs) |
 | [0686-repeated-string-match](https://github.com/jvignesh148/leetcode/tree/master/0686-repeated-string-match) |
@@ -372,6 +374,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jvignesh148/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/jvignesh148/leetcode/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/jvignesh148/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jvignesh148/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jvignesh148/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jvignesh148/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -445,6 +448,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/jvignesh148/leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/jvignesh148/leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/jvignesh148/leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/jvignesh148/leetcode/tree/master/0611-valid-triangle-number) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/jvignesh148/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0917-boats-to-save-people](https://github.com/jvignesh148/leetcode/tree/master/0917-boats-to-save-people) |
