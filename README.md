@@ -112,6 +112,7 @@
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jvignesh148/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2478-longest-nice-subarray](https://github.com/jvignesh148/leetcode/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/jvignesh148/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/jvignesh148/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jvignesh148/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -474,6 +475,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/jvignesh148/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jvignesh148/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jvignesh148/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/jvignesh148/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jvignesh148/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
@@ -513,6 +515,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jvignesh148/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/jvignesh148/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jvignesh148/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/jvignesh148/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -723,6 +726,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jvignesh148/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jvignesh148/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/jvignesh148/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2850-construct-the-longest-new-string](https://github.com/jvignesh148/leetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Union Find
 |  |
