@@ -231,6 +231,7 @@
 | [0507-perfect-number](https://github.com/jvignesh148/leetcode/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/jvignesh148/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0650-2-keys-keyboard](https://github.com/jvignesh148/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0672-bulb-switcher-ii](https://github.com/jvignesh148/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0797-rabbits-in-forest](https://github.com/jvignesh148/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/jvignesh148/leetcode/tree/master/0830-largest-triangle-area) |
 | [0894-random-pick-with-blacklist](https://github.com/jvignesh148/leetcode/tree/master/0894-random-pick-with-blacklist) |
@@ -439,6 +440,7 @@
 | [0338-counting-bits](https://github.com/jvignesh148/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/jvignesh148/leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jvignesh148/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0672-bulb-switcher-ii](https://github.com/jvignesh148/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [1054-complement-of-base-10-integer](https://github.com/jvignesh148/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jvignesh148/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jvignesh148/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -799,6 +801,7 @@
 | [0210-course-schedule-ii](https://github.com/jvignesh148/leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/jvignesh148/leetcode/tree/master/0322-coin-change) |
 | [0655-print-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/0655-print-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/jvignesh148/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0744-network-delay-time](https://github.com/jvignesh148/leetcode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/jvignesh148/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -828,6 +831,7 @@
 | [0419-battleships-in-a-board](https://github.com/jvignesh148/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0472-concatenated-words](https://github.com/jvignesh148/leetcode/tree/master/0472-concatenated-words) |
 | [0655-print-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/0655-print-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/jvignesh148/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0744-network-delay-time](https://github.com/jvignesh148/leetcode/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
