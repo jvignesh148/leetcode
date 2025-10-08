@@ -109,6 +109,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jvignesh148/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jvignesh148/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/jvignesh148/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jvignesh148/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2478-longest-nice-subarray](https://github.com/jvignesh148/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -474,6 +475,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/jvignesh148/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jvignesh148/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jvignesh148/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/jvignesh148/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jvignesh148/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jvignesh148/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -515,6 +517,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jvignesh148/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/jvignesh148/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jvignesh148/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jvignesh148/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -570,6 +573,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/jvignesh148/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1612-avoid-flood-in-the-city](https://github.com/jvignesh148/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jvignesh148/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/jvignesh148/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jvignesh148/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
