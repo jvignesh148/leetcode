@@ -183,6 +183,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jvignesh148/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1010-powerful-integers](https://github.com/jvignesh148/leetcode/tree/master/1010-powerful-integers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jvignesh148/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jvignesh148/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jvignesh148/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jvignesh148/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/jvignesh148/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -849,6 +850,7 @@
 | [0744-network-delay-time](https://github.com/jvignesh148/leetcode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/jvignesh148/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/jvignesh148/leetcode/tree/master/1036-rotting-oranges) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jvignesh148/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jvignesh148/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -862,6 +864,7 @@
 | [0832-binary-tree-pruning](https://github.com/jvignesh148/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jvignesh148/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -884,6 +887,7 @@
 | [0794-swim-in-rising-water](https://github.com/jvignesh148/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0832-binary-tree-pruning](https://github.com/jvignesh148/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jvignesh148/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -898,6 +902,7 @@
 | [0832-binary-tree-pruning](https://github.com/jvignesh148/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jvignesh148/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
