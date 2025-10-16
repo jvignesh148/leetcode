@@ -134,6 +134,7 @@
 | [2728-sum-in-a-matrix](https://github.com/jvignesh148/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jvignesh148/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/jvignesh148/leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3194-find-words-containing-character](https://github.com/jvignesh148/leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jvignesh148/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -500,6 +501,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jvignesh148/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jvignesh148/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/jvignesh148/leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jvignesh148/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
