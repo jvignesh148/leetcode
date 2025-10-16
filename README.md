@@ -34,6 +34,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jvignesh148/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jvignesh148/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jvignesh148/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0384-shuffle-an-array](https://github.com/jvignesh148/leetcode/tree/master/0384-shuffle-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/jvignesh148/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jvignesh148/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/jvignesh148/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -236,6 +237,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/jvignesh148/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jvignesh148/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/jvignesh148/leetcode/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/jvignesh148/leetcode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/jvignesh148/leetcode/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jvignesh148/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/jvignesh148/leetcode/tree/master/0415-add-strings) |
@@ -659,6 +661,7 @@
 | [0303-range-sum-query-immutable](https://github.com/jvignesh148/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jvignesh148/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jvignesh148/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0384-shuffle-an-array](https://github.com/jvignesh148/leetcode/tree/master/0384-shuffle-an-array) |
 | [0460-lfu-cache](https://github.com/jvignesh148/leetcode/tree/master/0460-lfu-cache) |
 | [0676-implement-magic-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/jvignesh148/leetcode/tree/master/0677-map-sum-pairs) |
@@ -940,6 +943,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/jvignesh148/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jvignesh148/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/jvignesh148/leetcode/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/jvignesh148/leetcode/tree/master/0384-shuffle-an-array) |
 | [0894-random-pick-with-blacklist](https://github.com/jvignesh148/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0913-random-flip-matrix](https://github.com/jvignesh148/leetcode/tree/master/0913-random-flip-matrix) |
 ## Ordered Set
