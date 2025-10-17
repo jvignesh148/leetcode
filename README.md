@@ -845,6 +845,7 @@
 | [0184-department-highest-salary](https://github.com/jvignesh148/leetcode/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/jvignesh148/leetcode/tree/master/0607-sales-person) |
 | [2110-employees-with-missing-information](https://github.com/jvignesh148/leetcode/tree/master/2110-employees-with-missing-information) |
+| [3898-seasonal-sales-analysis](https://github.com/jvignesh148/leetcode/tree/master/3898-seasonal-sales-analysis) |
 ## Breadth-First Search
 |  |
 | ------- |
