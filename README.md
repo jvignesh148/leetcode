@@ -20,6 +20,7 @@
 | [0078-subsets](https://github.com/jvignesh148/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jvignesh148/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jvignesh148/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/jvignesh148/leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/jvignesh148/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jvignesh148/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/jvignesh148/leetcode/tree/master/0162-find-peak-element) |
@@ -393,6 +394,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/jvignesh148/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
+| [0130-surrounded-regions](https://github.com/jvignesh148/leetcode/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/jvignesh148/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jvignesh148/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/jvignesh148/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -775,6 +777,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jvignesh148/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/jvignesh148/leetcode/tree/master/0130-surrounded-regions) |
 | [0794-swim-in-rising-water](https://github.com/jvignesh148/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -850,6 +853,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jvignesh148/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jvignesh148/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jvignesh148/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jvignesh148/leetcode/tree/master/0210-course-schedule-ii) |
@@ -885,6 +889,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jvignesh148/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jvignesh148/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jvignesh148/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jvignesh148/leetcode/tree/master/0210-course-schedule-ii) |
