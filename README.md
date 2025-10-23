@@ -303,6 +303,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jvignesh148/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/jvignesh148/leetcode/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -364,6 +365,7 @@
 | [3567-convert-date-to-binary](https://github.com/jvignesh148/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jvignesh148/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jvignesh148/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jvignesh148/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -388,6 +390,7 @@
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/jvignesh148/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2728-sum-in-a-matrix](https://github.com/jvignesh148/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3336-water-bottles-ii](https://github.com/jvignesh148/leetcode/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jvignesh148/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
@@ -657,6 +660,7 @@
 | [2491-smallest-even-multiple](https://github.com/jvignesh148/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/jvignesh148/leetcode/tree/master/2507-number-of-common-factors) |
 | [3373-maximum-prime-difference](https://github.com/jvignesh148/leetcode/tree/master/3373-maximum-prime-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jvignesh148/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -753,6 +757,7 @@
 | [1307-ugly-number-iii](https://github.com/jvignesh148/leetcode/tree/master/1307-ugly-number-iii) |
 | [1761-count-sorted-vowel-strings](https://github.com/jvignesh148/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jvignesh148/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
