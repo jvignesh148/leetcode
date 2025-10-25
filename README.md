@@ -152,6 +152,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jvignesh148/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/jvignesh148/leetcode/tree/master/3778-transform-array-by-parity) |
+| [4059-design-exam-scores-tracker](https://github.com/jvignesh148/leetcode/tree/master/4059-design-exam-scores-tracker) |
 ## Hash Table
 |  |
 | ------- |
@@ -466,6 +467,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/jvignesh148/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jvignesh148/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [4059-design-exam-scores-tracker](https://github.com/jvignesh148/leetcode/tree/master/4059-design-exam-scores-tracker) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -620,6 +622,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jvignesh148/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/jvignesh148/leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jvignesh148/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [4059-design-exam-scores-tracker](https://github.com/jvignesh148/leetcode/tree/master/4059-design-exam-scores-tracker) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -699,6 +702,7 @@
 | [2389-design-a-text-editor](https://github.com/jvignesh148/leetcode/tree/master/2389-design-a-text-editor) |
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
+| [4059-design-exam-scores-tracker](https://github.com/jvignesh148/leetcode/tree/master/4059-design-exam-scores-tracker) |
 ## Enumeration
 |  |
 | ------- |
