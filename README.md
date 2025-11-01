@@ -149,6 +149,7 @@
 | [3397-find-the-integer-added-to-array-i](https://github.com/jvignesh148/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jvignesh148/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jvignesh148/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jvignesh148/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jvignesh148/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -220,6 +221,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/jvignesh148/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jvignesh148/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jvignesh148/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jvignesh148/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
@@ -826,6 +828,7 @@
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jvignesh148/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/jvignesh148/leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2389-design-a-text-editor](https://github.com/jvignesh148/leetcode/tree/master/2389-design-a-text-editor) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jvignesh148/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Function
 |  |
 | ------- |
