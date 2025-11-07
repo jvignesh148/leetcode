@@ -98,6 +98,7 @@
 | [1813-maximum-erasure-value](https://github.com/jvignesh148/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jvignesh148/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jvignesh148/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1940-maximum-xor-for-each-query](https://github.com/jvignesh148/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1961-maximum-ice-cream-bars](https://github.com/jvignesh148/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -474,6 +475,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/jvignesh148/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jvignesh148/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jvignesh148/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1940-maximum-xor-for-each-query](https://github.com/jvignesh148/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2571-find-the-pivot-integer](https://github.com/jvignesh148/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/jvignesh148/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jvignesh148/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -493,6 +495,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jvignesh148/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jvignesh148/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1940-maximum-xor-for-each-query](https://github.com/jvignesh148/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2478-longest-nice-subarray](https://github.com/jvignesh148/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/jvignesh148/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jvignesh148/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
