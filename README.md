@@ -25,6 +25,7 @@
 | [0152-maximum-product-subarray](https://github.com/jvignesh148/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/jvignesh148/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/jvignesh148/leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/jvignesh148/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/jvignesh148/leetcode/tree/master/0204-count-primes) |
 | [0274-h-index](https://github.com/jvignesh148/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/jvignesh148/leetcode/tree/master/0275-h-index-ii) |
@@ -446,6 +447,7 @@
 | [0131-palindrome-partitioning](https://github.com/jvignesh148/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jvignesh148/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jvignesh148/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/jvignesh148/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/jvignesh148/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/jvignesh148/leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/jvignesh148/leetcode/tree/master/0338-counting-bits) |
