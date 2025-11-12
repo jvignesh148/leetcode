@@ -81,6 +81,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jvignesh148/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jvignesh148/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/jvignesh148/leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/jvignesh148/leetcode/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/jvignesh148/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -428,6 +429,7 @@
 | [0498-diagonal-traverse](https://github.com/jvignesh148/leetcode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/jvignesh148/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/jvignesh148/leetcode/tree/master/1036-rotting-oranges) |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/jvignesh148/leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jvignesh148/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/jvignesh148/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -815,6 +817,7 @@
 | [0853-most-profit-assigning-work](https://github.com/jvignesh148/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/jvignesh148/leetcode/tree/master/0917-boats-to-save-people) |
 | [1033-broken-calculator](https://github.com/jvignesh148/leetcode/tree/master/1033-broken-calculator) |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/jvignesh148/leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1448-maximum-69-number](https://github.com/jvignesh148/leetcode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/jvignesh148/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jvignesh148/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
