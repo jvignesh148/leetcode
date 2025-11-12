@@ -156,6 +156,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jvignesh148/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jvignesh148/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jvignesh148/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jvignesh148/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -229,6 +230,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jvignesh148/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jvignesh148/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jvignesh148/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -445,6 +447,7 @@
 | [1813-maximum-erasure-value](https://github.com/jvignesh148/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/jvignesh148/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jvignesh148/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -678,6 +681,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2728-sum-in-a-matrix](https://github.com/jvignesh148/leetcode/tree/master/2728-sum-in-a-matrix) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Quickselect
