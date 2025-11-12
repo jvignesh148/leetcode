@@ -907,6 +907,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/jvignesh148/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/jvignesh148/leetcode/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/jvignesh148/leetcode/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/jvignesh148/leetcode/tree/master/0620-not-boring-movies) |
 | [2110-employees-with-missing-information](https://github.com/jvignesh148/leetcode/tree/master/2110-employees-with-missing-information) |
 | [3898-seasonal-sales-analysis](https://github.com/jvignesh148/leetcode/tree/master/3898-seasonal-sales-analysis) |
 ## Breadth-First Search
