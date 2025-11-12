@@ -1,0 +1,1 @@
+select id,movie,description,rating from Cinema where Not description='boring' AND id%2=1 Order by rating desc;
