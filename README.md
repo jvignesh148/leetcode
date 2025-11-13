@@ -384,6 +384,7 @@
 | [3379-score-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jvignesh148/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3462-vowels-game-in-a-string](https://github.com/jvignesh148/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jvignesh148/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3567-convert-date-to-binary](https://github.com/jvignesh148/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jvignesh148/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -621,6 +622,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jvignesh148/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jvignesh148/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jvignesh148/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jvignesh148/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jvignesh148/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/jvignesh148/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -829,6 +831,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/jvignesh148/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/jvignesh148/leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2850-construct-the-longest-new-string](https://github.com/jvignesh148/leetcode/tree/master/2850-construct-the-longest-new-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jvignesh148/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Union Find
 |  |
 | ------- |
