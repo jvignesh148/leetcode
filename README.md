@@ -272,6 +272,7 @@
 | [0537-complex-number-multiplication](https://github.com/jvignesh148/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0650-2-keys-keyboard](https://github.com/jvignesh148/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0672-bulb-switcher-ii](https://github.com/jvignesh148/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0728-self-dividing-numbers](https://github.com/jvignesh148/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/jvignesh148/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/jvignesh148/leetcode/tree/master/0830-largest-triangle-area) |
 | [0894-random-pick-with-blacklist](https://github.com/jvignesh148/leetcode/tree/master/0894-random-pick-with-blacklist) |
