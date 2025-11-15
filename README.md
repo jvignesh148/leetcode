@@ -395,6 +395,7 @@
 | [3379-score-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jvignesh148/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3462-vowels-game-in-a-string](https://github.com/jvignesh148/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/jvignesh148/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jvignesh148/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/jvignesh148/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/jvignesh148/leetcode/tree/master/3567-convert-date-to-binary) |
@@ -465,6 +466,7 @@
 | [1813-maximum-erasure-value](https://github.com/jvignesh148/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/jvignesh148/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jvignesh148/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/jvignesh148/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/jvignesh148/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Dynamic Programming
@@ -773,6 +775,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/jvignesh148/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/jvignesh148/leetcode/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/jvignesh148/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/jvignesh148/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## String Matching
 |  |
 | ------- |
