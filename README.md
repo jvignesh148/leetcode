@@ -854,6 +854,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/jvignesh148/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/jvignesh148/leetcode/tree/master/0130-surrounded-regions) |
 | [0794-swim-in-rising-water](https://github.com/jvignesh148/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/jvignesh148/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -946,6 +947,7 @@
 | [0672-bulb-switcher-ii](https://github.com/jvignesh148/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0744-network-delay-time](https://github.com/jvignesh148/leetcode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/jvignesh148/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/jvignesh148/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jvignesh148/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/jvignesh148/leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jvignesh148/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -987,6 +989,7 @@
 | [0744-network-delay-time](https://github.com/jvignesh148/leetcode/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/jvignesh148/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/jvignesh148/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/jvignesh148/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/jvignesh148/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jvignesh148/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/jvignesh148/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -1085,6 +1088,7 @@
 | [0207-course-schedule](https://github.com/jvignesh148/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jvignesh148/leetcode/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/jvignesh148/leetcode/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/jvignesh148/leetcode/tree/master/0801-is-graph-bipartite) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
