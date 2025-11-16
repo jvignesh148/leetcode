@@ -132,6 +132,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jvignesh148/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jvignesh148/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2472-build-a-matrix-with-conditions](https://github.com/jvignesh148/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/jvignesh148/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jvignesh148/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/jvignesh148/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -449,6 +450,7 @@
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jvignesh148/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jvignesh148/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2472-build-a-matrix-with-conditions](https://github.com/jvignesh148/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/jvignesh148/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/jvignesh148/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2728-sum-in-a-matrix](https://github.com/jvignesh148/leetcode/tree/master/2728-sum-in-a-matrix) |
@@ -1100,6 +1102,7 @@
 | [0744-network-delay-time](https://github.com/jvignesh148/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/jvignesh148/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/jvignesh148/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2472-build-a-matrix-with-conditions](https://github.com/jvignesh148/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
@@ -1107,6 +1110,7 @@
 | [0207-course-schedule](https://github.com/jvignesh148/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jvignesh148/leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/jvignesh148/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2472-build-a-matrix-with-conditions](https://github.com/jvignesh148/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Shortest Path
 |  |
 | ------- |
