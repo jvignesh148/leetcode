@@ -98,6 +98,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1539-diagonal-traverse-ii](https://github.com/jvignesh148/leetcode/tree/master/1539-diagonal-traverse-ii) |
+| [1552-build-an-array-with-stack-operations](https://github.com/jvignesh148/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/jvignesh148/leetcode/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jvignesh148/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -427,6 +428,7 @@
 | [0537-complex-number-multiplication](https://github.com/jvignesh148/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/jvignesh148/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1449-print-words-vertically](https://github.com/jvignesh148/leetcode/tree/master/1449-print-words-vertically) |
+| [1552-build-an-array-with-stack-operations](https://github.com/jvignesh148/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/jvignesh148/leetcode/tree/master/1642-water-bottles) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/jvignesh148/leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2048-build-array-from-permutation](https://github.com/jvignesh148/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -841,6 +843,7 @@
 | [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/jvignesh148/leetcode/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jvignesh148/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1552-build-an-array-with-stack-operations](https://github.com/jvignesh148/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jvignesh148/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
