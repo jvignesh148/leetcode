@@ -125,6 +125,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/jvignesh148/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jvignesh148/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/jvignesh148/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-minimum-time-to-complete-trips](https://github.com/jvignesh148/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jvignesh148/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -227,6 +228,7 @@
 | [2169-simple-bank-system](https://github.com/jvignesh148/leetcode/tree/master/2169-simple-bank-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jvignesh148/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/jvignesh148/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/jvignesh148/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jvignesh148/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -425,6 +427,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/jvignesh148/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jvignesh148/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jvignesh148/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/jvignesh148/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jvignesh148/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/jvignesh148/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/jvignesh148/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -614,6 +617,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/jvignesh148/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jvignesh148/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jvignesh148/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jvignesh148/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
