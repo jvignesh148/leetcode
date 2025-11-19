@@ -42,6 +42,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/jvignesh148/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jvignesh148/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/jvignesh148/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jvignesh148/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0472-concatenated-words](https://github.com/jvignesh148/leetcode/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/jvignesh148/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -198,6 +199,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/jvignesh148/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jvignesh148/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/jvignesh148/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/jvignesh148/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/jvignesh148/leetcode/tree/master/0567-permutation-in-string) |
