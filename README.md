@@ -95,6 +95,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1539-diagonal-traverse-ii](https://github.com/jvignesh148/leetcode/tree/master/1539-diagonal-traverse-ii) |
+| [1580-shuffle-the-array](https://github.com/jvignesh148/leetcode/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jvignesh148/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/jvignesh148/leetcode/tree/master/1612-avoid-flood-in-the-city) |
