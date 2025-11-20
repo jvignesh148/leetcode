@@ -173,6 +173,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jvignesh148/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jvignesh148/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jvignesh148/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jvignesh148/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -254,6 +255,7 @@
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/jvignesh148/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jvignesh148/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jvignesh148/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -489,6 +491,7 @@
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/jvignesh148/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/jvignesh148/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jvignesh148/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -732,6 +735,7 @@
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2728-sum-in-a-matrix](https://github.com/jvignesh148/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jvignesh148/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Quickselect
