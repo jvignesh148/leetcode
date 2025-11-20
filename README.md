@@ -178,6 +178,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jvignesh148/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/jvignesh148/leetcode/tree/master/3778-transform-array-by-parity) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jvignesh148/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 | [4059-design-exam-scores-tracker](https://github.com/jvignesh148/leetcode/tree/master/4059-design-exam-scores-tracker) |
 ## Hash Table
@@ -259,6 +260,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jvignesh148/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jvignesh148/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jvignesh148/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -854,6 +856,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jvignesh148/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2389-design-a-text-editor](https://github.com/jvignesh148/leetcode/tree/master/2389-design-a-text-editor) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jvignesh148/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Combinatorics
 |  |
 | ------- |
@@ -886,6 +889,7 @@
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/jvignesh148/leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2850-construct-the-longest-new-string](https://github.com/jvignesh148/leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jvignesh148/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jvignesh148/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union Find
 |  |
 | ------- |
@@ -950,6 +954,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/jvignesh148/leetcode/tree/master/0937-online-stock-span) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jvignesh148/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
