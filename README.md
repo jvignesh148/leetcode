@@ -223,6 +223,7 @@
 | [0926-find-and-replace-pattern](https://github.com/jvignesh148/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jvignesh148/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1010-powerful-integers](https://github.com/jvignesh148/leetcode/tree/master/1010-powerful-integers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/jvignesh148/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jvignesh148/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jvignesh148/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jvignesh148/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -307,6 +308,7 @@
 | [0913-random-flip-matrix](https://github.com/jvignesh148/leetcode/tree/master/0913-random-flip-matrix) |
 | [1010-powerful-integers](https://github.com/jvignesh148/leetcode/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/jvignesh148/leetcode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/jvignesh148/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1033-broken-calculator](https://github.com/jvignesh148/leetcode/tree/master/1033-broken-calculator) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1284-four-divisors](https://github.com/jvignesh148/leetcode/tree/master/1284-four-divisors) |
