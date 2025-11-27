@@ -394,6 +394,7 @@
 | [0692-top-k-frequent-words](https://github.com/jvignesh148/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0822-unique-morse-code-words](https://github.com/jvignesh148/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jvignesh148/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-find-and-replace-pattern](https://github.com/jvignesh148/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0981-delete-columns-to-make-sorted](https://github.com/jvignesh148/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0984-string-without-aaa-or-bbb](https://github.com/jvignesh148/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
@@ -872,6 +873,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/jvignesh148/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/jvignesh148/leetcode/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/jvignesh148/leetcode/tree/master/0496-next-greater-element-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jvignesh148/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/jvignesh148/leetcode/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jvignesh148/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/jvignesh148/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -900,6 +902,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/jvignesh148/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0853-most-profit-assigning-work](https://github.com/jvignesh148/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/jvignesh148/leetcode/tree/master/0917-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jvignesh148/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/jvignesh148/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1033-broken-calculator](https://github.com/jvignesh148/leetcode/tree/master/1033-broken-calculator) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jvignesh148/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
