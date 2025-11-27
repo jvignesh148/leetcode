@@ -84,6 +84,7 @@
 | [1097-stream-of-characters](https://github.com/jvignesh148/leetcode/tree/master/1097-stream-of-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jvignesh148/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jvignesh148/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/jvignesh148/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1284-four-divisors](https://github.com/jvignesh148/leetcode/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/jvignesh148/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jvignesh148/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -231,6 +232,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jvignesh148/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jvignesh148/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/jvignesh148/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/jvignesh148/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jvignesh148/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jvignesh148/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -892,6 +894,7 @@
 | [0984-string-without-aaa-or-bbb](https://github.com/jvignesh148/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1033-broken-calculator](https://github.com/jvignesh148/leetcode/tree/master/1033-broken-calculator) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jvignesh148/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/jvignesh148/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/jvignesh148/leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1448-maximum-69-number](https://github.com/jvignesh148/leetcode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/jvignesh148/leetcode/tree/master/1612-avoid-flood-in-the-city) |
