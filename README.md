@@ -406,6 +406,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/jvignesh148/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1797-goal-parser-interpretation](https://github.com/jvignesh148/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jvignesh148/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jvignesh148/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/jvignesh148/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -599,6 +600,7 @@
 | [0853-most-profit-assigning-work](https://github.com/jvignesh148/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/jvignesh148/leetcode/tree/master/0917-boats-to-save-people) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jvignesh148/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jvignesh148/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/jvignesh148/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -869,6 +871,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/jvignesh148/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/jvignesh148/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jvignesh148/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jvignesh148/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2389-design-a-text-editor](https://github.com/jvignesh148/leetcode/tree/master/2389-design-a-text-editor) |
@@ -900,6 +903,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/jvignesh148/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jvignesh148/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/jvignesh148/leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jvignesh148/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jvignesh148/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jvignesh148/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
