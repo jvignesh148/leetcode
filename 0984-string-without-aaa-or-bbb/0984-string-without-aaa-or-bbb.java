@@ -1,8 +1,5 @@
 class Solution {
-    static { 
-        for(int i = 0; i < 500 ;i++) strWithout3a3b(0,0);
-    }
-    public static String strWithout3a3b(int a, int b) {
+    public String strWithout3a3b(int a, int b) {
         StringBuilder sb = new StringBuilder();
         char c1 = 'a', c2 = 'b';
         if( a < b) {
