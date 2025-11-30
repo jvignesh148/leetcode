@@ -357,6 +357,7 @@
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jvignesh148/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/jvignesh148/leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2752-sum-multiples](https://github.com/jvignesh148/leetcode/tree/master/2752-sum-multiples) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/jvignesh148/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2850-construct-the-longest-new-string](https://github.com/jvignesh148/leetcode/tree/master/2850-construct-the-longest-new-string) |
@@ -1124,6 +1125,7 @@
 | [0052-n-queens-ii](https://github.com/jvignesh148/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/jvignesh148/leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/jvignesh148/leetcode/tree/master/0131-palindrome-partitioning) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/jvignesh148/leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Doubly-Linked List
 |  |
 | ------- |
