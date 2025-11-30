@@ -1057,6 +1057,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jvignesh148/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/jvignesh148/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1087,6 +1088,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/jvignesh148/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/jvignesh148/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
