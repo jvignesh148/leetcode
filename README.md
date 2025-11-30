@@ -155,6 +155,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jvignesh148/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jvignesh148/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jvignesh148/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2596-check-knight-tour-configuration](https://github.com/jvignesh148/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/jvignesh148/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -349,6 +350,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jvignesh148/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2571-find-the-pivot-integer](https://github.com/jvignesh148/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jvignesh148/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jvignesh148/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/jvignesh148/leetcode/tree/master/2752-sum-multiples) |
@@ -427,6 +429,7 @@
 | [2389-design-a-text-editor](https://github.com/jvignesh148/leetcode/tree/master/2389-design-a-text-editor) |
 | [2391-strong-password-checker-ii](https://github.com/jvignesh148/leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/jvignesh148/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jvignesh148/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/jvignesh148/leetcode/tree/master/3194-find-words-containing-character) |
