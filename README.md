@@ -121,6 +121,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/jvignesh148/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1961-maximum-ice-cream-bars](https://github.com/jvignesh148/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1993-operations-on-tree](https://github.com/jvignesh148/leetcode/tree/master/1993-operations-on-tree) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jvignesh148/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jvignesh148/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/jvignesh148/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -248,6 +249,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/jvignesh148/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/jvignesh148/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1905-design-authentication-manager](https://github.com/jvignesh148/leetcode/tree/master/1905-design-authentication-manager) |
+| [1993-operations-on-tree](https://github.com/jvignesh148/leetcode/tree/master/1993-operations-on-tree) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jvignesh148/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/jvignesh148/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2169-simple-bank-system](https://github.com/jvignesh148/leetcode/tree/master/2169-simple-bank-system) |
@@ -825,6 +827,7 @@
 | [1582-design-browser-history](https://github.com/jvignesh148/leetcode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/jvignesh148/leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1905-design-authentication-manager](https://github.com/jvignesh148/leetcode/tree/master/1905-design-authentication-manager) |
+| [1993-operations-on-tree](https://github.com/jvignesh148/leetcode/tree/master/1993-operations-on-tree) |
 | [2169-simple-bank-system](https://github.com/jvignesh148/leetcode/tree/master/2169-simple-bank-system) |
 | [2389-design-a-text-editor](https://github.com/jvignesh148/leetcode/tree/master/2389-design-a-text-editor) |
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -1041,6 +1044,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jvignesh148/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1993-operations-on-tree](https://github.com/jvignesh148/leetcode/tree/master/1993-operations-on-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jvignesh148/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2596-check-knight-tour-configuration](https://github.com/jvignesh148/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1059,6 +1063,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1993-operations-on-tree](https://github.com/jvignesh148/leetcode/tree/master/1993-operations-on-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jvignesh148/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/jvignesh148/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
@@ -1089,6 +1094,7 @@
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1993-operations-on-tree](https://github.com/jvignesh148/leetcode/tree/master/1993-operations-on-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/jvignesh148/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/jvignesh148/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
