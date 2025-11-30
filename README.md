@@ -182,6 +182,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jvignesh148/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3607-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jvignesh148/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jvignesh148/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -268,6 +269,7 @@
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/jvignesh148/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3607-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jvignesh148/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
@@ -766,6 +768,7 @@
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2728-sum-in-a-matrix](https://github.com/jvignesh148/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3607-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jvignesh148/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -938,6 +941,7 @@
 | [0801-is-graph-bipartite](https://github.com/jvignesh148/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/jvignesh148/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3607-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
@@ -1039,6 +1043,7 @@
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jvignesh148/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2596-check-knight-tour-configuration](https://github.com/jvignesh148/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3607-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Tree
 |  |
@@ -1085,6 +1090,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/jvignesh148/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/jvignesh148/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jvignesh148/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3607-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -1153,6 +1159,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/jvignesh148/leetcode/tree/master/0729-my-calendar-i) |
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3607-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
@@ -1177,6 +1184,7 @@
 | [0801-is-graph-bipartite](https://github.com/jvignesh148/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/jvignesh148/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jvignesh148/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3607-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
