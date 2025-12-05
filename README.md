@@ -279,6 +279,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jvignesh148/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/jvignesh148/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jvignesh148/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/jvignesh148/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jvignesh148/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -450,6 +451,7 @@
 | [3567-convert-date-to-binary](https://github.com/jvignesh148/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jvignesh148/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/jvignesh148/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jvignesh148/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jvignesh148/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
