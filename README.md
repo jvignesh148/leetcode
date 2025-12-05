@@ -150,6 +150,7 @@
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/jvignesh148/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jvignesh148/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/jvignesh148/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jvignesh148/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/jvignesh148/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jvignesh148/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -438,6 +439,7 @@
 | [2389-design-a-text-editor](https://github.com/jvignesh148/leetcode/tree/master/2389-design-a-text-editor) |
 | [2391-strong-password-checker-ii](https://github.com/jvignesh148/leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/jvignesh148/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/jvignesh148/leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/jvignesh148/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jvignesh148/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -1011,6 +1013,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/jvignesh148/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1097-stream-of-characters](https://github.com/jvignesh148/leetcode/tree/master/1097-stream-of-characters) |
 | [1397-search-suggestions-system](https://github.com/jvignesh148/leetcode/tree/master/1397-search-suggestions-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/jvignesh148/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Monotonic Stack
 |  |
 | ------- |
