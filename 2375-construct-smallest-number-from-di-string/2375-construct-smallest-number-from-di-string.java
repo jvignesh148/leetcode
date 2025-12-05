@@ -5,17 +5,17 @@ class Solution {
         int num = 1;
         for(char c : pattern.toCharArray()) {
             if(st.isEmpty() && c == 'I') {
-                sb.append(String.valueOf(num));
+                sb.append(num);
                 num++;
             }
             else if(!st.isEmpty() && c == 'I') {
                 int temp = num;
                 while(!st.isEmpty()) {
-                    sb.append(String.valueOf(num));
+                    sb.append(num);
                     st.pop();
                     num--;
                 }
-                sb.append(String.valueOf(num));
+                sb.append(num);
                 num = temp;
                 num++;
             }
@@ -25,7 +25,7 @@ class Solution {
             }
         }
         while(!st.isEmpty()) {
-            sb.append(String.valueOf(num));
+            sb.append(num);
             st.pop();
             num--;
         }
