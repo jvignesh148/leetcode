@@ -436,6 +436,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jvignesh148/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/jvignesh148/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/jvignesh148/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/jvignesh148/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2389-design-a-text-editor](https://github.com/jvignesh148/leetcode/tree/master/2389-design-a-text-editor) |
 | [2391-strong-password-checker-ii](https://github.com/jvignesh148/leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -911,6 +912,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/jvignesh148/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2211-count-collisions-on-a-road](https://github.com/jvignesh148/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jvignesh148/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/jvignesh148/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2389-design-a-text-editor](https://github.com/jvignesh148/leetcode/tree/master/2389-design-a-text-editor) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/jvignesh148/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jvignesh148/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -947,6 +949,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/jvignesh148/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jvignesh148/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jvignesh148/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/jvignesh148/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jvignesh148/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jvignesh148/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jvignesh148/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1139,6 +1142,7 @@
 | [0052-n-queens-ii](https://github.com/jvignesh148/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/jvignesh148/leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/jvignesh148/leetcode/tree/master/0131-palindrome-partitioning) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/jvignesh148/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/jvignesh148/leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Doubly-Linked List
 |  |
