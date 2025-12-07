@@ -337,6 +337,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jvignesh148/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/jvignesh148/leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/jvignesh148/leetcode/tree/master/1500-count-largest-group) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/jvignesh148/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/jvignesh148/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/jvignesh148/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/jvignesh148/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
