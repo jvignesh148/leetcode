@@ -346,6 +346,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jvignesh148/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/jvignesh148/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jvignesh148/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/jvignesh148/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/jvignesh148/leetcode/tree/master/2083-three-divisors) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jvignesh148/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jvignesh148/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -856,6 +857,7 @@
 | [0204-count-primes](https://github.com/jvignesh148/leetcode/tree/master/0204-count-primes) |
 | [1010-powerful-integers](https://github.com/jvignesh148/leetcode/tree/master/1010-powerful-integers) |
 | [1656-count-good-triplets](https://github.com/jvignesh148/leetcode/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/jvignesh148/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/jvignesh148/leetcode/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jvignesh148/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/jvignesh148/leetcode/tree/master/2507-number-of-common-factors) |
