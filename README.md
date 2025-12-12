@@ -301,6 +301,7 @@
 | [0029-divide-two-integers](https://github.com/jvignesh148/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/jvignesh148/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jvignesh148/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/jvignesh148/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/jvignesh148/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/jvignesh148/leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -548,6 +549,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jvignesh148/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/jvignesh148/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jvignesh148/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/jvignesh148/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/jvignesh148/leetcode/tree/master/0120-triangle) |
@@ -935,6 +937,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jvignesh148/leetcode/tree/master/0062-unique-paths) |
 | [1307-ugly-number-iii](https://github.com/jvignesh148/leetcode/tree/master/1307-ugly-number-iii) |
 | [1761-count-sorted-vowel-strings](https://github.com/jvignesh148/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jvignesh148/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
