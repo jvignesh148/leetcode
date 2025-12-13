@@ -191,6 +191,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/jvignesh148/leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/jvignesh148/leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jvignesh148/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jvignesh148/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/jvignesh148/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -282,6 +283,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jvignesh148/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/jvignesh148/leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jvignesh148/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/jvignesh148/leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jvignesh148/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
@@ -461,6 +463,7 @@
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jvignesh148/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/jvignesh148/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/jvignesh148/leetcode/tree/master/3567-convert-date-to-binary) |
+| [3606-coupon-code-validator](https://github.com/jvignesh148/leetcode/tree/master/3606-coupon-code-validator) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jvignesh148/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/jvignesh148/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jvignesh148/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -714,6 +717,7 @@
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jvignesh148/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jvignesh148/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/jvignesh148/leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/jvignesh148/leetcode/tree/master/3606-coupon-code-validator) |
 | [3778-transform-array-by-parity](https://github.com/jvignesh148/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
