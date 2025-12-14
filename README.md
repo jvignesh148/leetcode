@@ -84,6 +84,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/jvignesh148/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/jvignesh148/leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jvignesh148/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/jvignesh148/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1097-stream-of-characters](https://github.com/jvignesh148/leetcode/tree/master/1097-stream-of-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jvignesh148/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jvignesh148/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -773,6 +774,7 @@
 | [0894-random-pick-with-blacklist](https://github.com/jvignesh148/leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0907-koko-eating-bananas](https://github.com/jvignesh148/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jvignesh148/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/jvignesh148/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1307-ugly-number-iii](https://github.com/jvignesh148/leetcode/tree/master/1307-ugly-number-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jvignesh148/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/jvignesh148/leetcode/tree/master/1397-search-suggestions-system) |
@@ -1254,4 +1256,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/jvignesh148/leetcode/tree/master/0744-network-delay-time) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/jvignesh148/leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
