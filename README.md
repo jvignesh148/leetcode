@@ -130,6 +130,7 @@
 | [2048-build-array-from-permutation](https://github.com/jvignesh148/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2055-plates-between-candles](https://github.com/jvignesh148/leetcode/tree/master/2055-plates-between-candles) |
 | [2058-concatenation-of-array](https://github.com/jvignesh148/leetcode/tree/master/2058-concatenation-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jvignesh148/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jvignesh148/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jvignesh148/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/jvignesh148/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -360,6 +361,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jvignesh148/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/jvignesh148/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/jvignesh148/leetcode/tree/master/2083-three-divisors) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jvignesh148/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jvignesh148/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jvignesh148/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/jvignesh148/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -581,6 +583,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jvignesh148/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/jvignesh148/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1761-count-sorted-vowel-strings](https://github.com/jvignesh148/leetcode/tree/master/1761-count-sorted-vowel-strings) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jvignesh148/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/jvignesh148/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2850-construct-the-longest-new-string](https://github.com/jvignesh148/leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jvignesh148/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
