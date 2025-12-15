@@ -275,6 +275,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jvignesh148/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jvignesh148/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jvignesh148/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2671-frequency-tracker](https://github.com/jvignesh148/leetcode/tree/master/2671-frequency-tracker) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jvignesh148/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3227-find-missing-and-repeated-values](https://github.com/jvignesh148/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jvignesh148/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -879,6 +880,7 @@
 | [2169-simple-bank-system](https://github.com/jvignesh148/leetcode/tree/master/2169-simple-bank-system) |
 | [2389-design-a-text-editor](https://github.com/jvignesh148/leetcode/tree/master/2389-design-a-text-editor) |
 | [2429-design-a-food-rating-system](https://github.com/jvignesh148/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2671-frequency-tracker](https://github.com/jvignesh148/leetcode/tree/master/2671-frequency-tracker) |
 | [3678-design-task-manager](https://github.com/jvignesh148/leetcode/tree/master/3678-design-task-manager) |
 | [4059-design-exam-scores-tracker](https://github.com/jvignesh148/leetcode/tree/master/4059-design-exam-scores-tracker) |
 ## Enumeration
